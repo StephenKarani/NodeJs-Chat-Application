@@ -1,0 +1,26 @@
+{
+  "name": "nodejschatapplication",
+  "version": "1.0.0",
+  "description": "This is a node js chat application using socket io",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StephenKarani/NodeJs-Chat-Application.git"
+  },
+  "keywords": [
+    "Node",
+    "Js",
+    "Chat",
+    "Application"
+  ],
+  "author": "Stephen Karani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StephenKarani/NodeJs-Chat-Application/issues"
+  },
+  "homepage": "https://github.com/StephenKarani/NodeJs-Chat-Application#readme"
+}
